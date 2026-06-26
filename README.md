@@ -56,7 +56,7 @@ A proprietary scoring mechanism to ensure marketplace integrity:
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/pokefanchanti/VendorConnect.git](https://github.com/pokefanchanti/VendorConnect.git)
+git clone [https://github.com/Vinesh-27/VendorConnect.git](https://github.com/Vinesh-27/VendorConnect.git)
 cd VendorConnect
 ```
 
